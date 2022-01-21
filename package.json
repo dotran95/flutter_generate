@@ -3,6 +3,10 @@
 	"displayName": "fbloc",
 	"description": "flutter generate file",
 	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dotran95/flutter_generate"
+	  },
 	"engines": {
 		"vscode": "^1.63.0"
 	},
